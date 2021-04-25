@@ -1,5 +1,7 @@
 using System; 
 
+//the code has been developed under Visual Studio Code while workspace is C#
+
 namespace C_{
     public class TechKariyer{
         static void Main(string[] args){
